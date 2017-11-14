@@ -1,0 +1,2 @@
+# BackgroundTaskByLocation
+通过后台定位和UIBackgroundTaskIdentifier实现后台无限运行并达到省电的目的。
